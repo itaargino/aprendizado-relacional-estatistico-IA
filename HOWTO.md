@@ -1,6 +1,4 @@
 # How-To: Análise de Risco de Crédito Híbrido (SRL)
-**Disciplina ICC260 – Prof. Edjard Mota**  
-*Statistical Relational Learning com SWI-Prolog + Python*
 
 ---
 
