@@ -1,7 +1,5 @@
 # Análise de Risco de Crédito Híbrido (SRL)
 
-> ICC260 – Inteligência Artificial | Prof. Edjard Mota | UFAM
-
 Sistema de **Statistical Relational Learning** que combina SWI-Prolog (grafo social) com Python/scikit-learn (Regressão Logística) para análise de risco de crédito com saídas explicáveis estilo ProbLog.
 
 ## Início Rápido
